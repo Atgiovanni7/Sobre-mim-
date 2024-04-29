@@ -1,2 +1,4 @@
 # Sobre-mim-
 Esse repositório tem como objetivo me apresentar
+Meu nome é Arthur,tenho 17 anos e atualmente eu estou no 3º ano do ensino médio,trabalho na aréa de call center na clinica mais60, estou cursando informatica para internet no senai CTTI, já fiz curso de informatica na escola microcamp porém não conclui por conta da pandemia meus pais tiveram dificuldades em pagar a mensalidade e também com o deslocamento,eu sou dedicado,decidido,esforça quando quero algo dou meu maixmo para conseguir o que quero,gosto muito de trabalhar em euipe pois acho que me dou melhor com outras pessoas do qeu sozinho esobre meu com=nhecimento sobre informatica é intermediário para avançado.
+Segue abaixo o meu primeiro projeto:https://docs.google.com/document/d/1ForSoiFyXNcvObo1qetA1X-wtKBGj1_S/edit?usp=drive_link&ouid=102909852300624998277&rtpof=true&sd=true
